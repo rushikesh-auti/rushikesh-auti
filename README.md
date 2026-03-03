@@ -9,11 +9,9 @@
 
 ## 👨‍💻 About Me
 
-🚀 Motivated and detail-oriented Full Stack Developer with strong fundamentals in programming, data structures, databases, and web development.
-
-⚡ Hands-on experience building responsive and scalable web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
-
-🌱 Passionate about solving real-world problems, learning new technologies, and contributing to impactful software solutions.
+ Motivated and detail-oriented Full Stack Developer with strong fundamentals in programming, data structures, databases, and web development.
+ Hands-on experience building responsive and scalable web applications using the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
+ Passionate about solving real-world problems, learning new technologies, and contributing to impactful software solutions.
 
 ---
 
@@ -21,7 +19,6 @@
 
 🌐 Portfolio: https://portfoliorushiz.vercel.app/  
 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-auti  
-🐙 GitHub: https://github.com/rushikesh-auti  
 📧 Email: autirushikesh758@gmail.com  
 
 ---
@@ -67,7 +64,7 @@ Music player with play/pause, next/previous controls, progress tracking, and see
 ### 🎮 Stone Paper Scissor Game  
 Interactive browser-based game built using HTML, CSS, and JavaScript.
 
-### ❌⭕ Tic-Tac-Toe Game  
+### 🎮 Tic-Tac-Toe Game  
 Simple and responsive Tic-Tac-Toe game with interactive UI.
 
 ---
