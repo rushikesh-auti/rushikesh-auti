@@ -1,6 +1,6 @@
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Rushikesh Auti
 
-💻 **Full Stack Web Developer**  
+💻 **Web Developer**  
 🎓 Computer Science Graduate  
 📍 Pune, Maharashtra, India  
 📧 autirushikesh758@gmail.com  
