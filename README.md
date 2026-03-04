@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Web Developer with a strong foundation in programming and modern web development. Expertise in building responsive and user-friendly applications. Passionate about learning new technologies and solving real-world problems.
+Full Stack Web Developer with a strong foundation in programming and modern web development. Expertise in building responsive and user-friendly applications. Passionate about learning new technologies and solving real-world problems. Committed to writing clean, maintainable code and continuously improving through hands-on projects and real-world development experience.
 
 ---
 
