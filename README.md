@@ -2,39 +2,32 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-💻 Web Developer • 🎓 Computer Science Graduate <br>
+🎓 Computer Science Graduate <br>
 📍 Pune, Maharashtra, India <br>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+and+Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-Web Developer with a strong foundation in modern web technologies.  
-I enjoy building responsive web applications and solving real-world problems through clean and maintainable code.
-
-I am currently seeking an **entry-level Software Developer / Web Developer role** where I can apply my technical skills and contribute to real-world applications.
+I am a Computer Science graduate and Web Developer with a strong foundation in modern web technologies. I enjoy building responsive and user-friendly web applications while continuously improving my development skills. I am interested in solving real-world problems by developing scalable and maintainable software solutions.
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
-<a href="https://portfoliorushiz.vercel.app/">
+<a href="https://portfoliorushiz.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/rushikesh-auti/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:autirushikesh758@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -74,9 +67,7 @@ I am currently seeking an **entry-level Software Developer / Web Developer role*
 
 ### 🌐 Personal Portfolio Website
 Responsive portfolio website showcasing my skills and projects.
-
-Live:  
-https://portfoliorushiz.vercel.app/
+Live:  https://portfoliorushiz.vercel.app/
 
 ---
 
@@ -95,25 +86,8 @@ Simple and responsive Tic Tac Toe game with interactive UI.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rushikesh-auti&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh-auti&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh-auti&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌱 Currently Learning
-
-- Advanced React  
-- Backend Development with Node.js  
-- REST API Development  
+#  Currently Learning
+- AI Automation
 
 ---
 
