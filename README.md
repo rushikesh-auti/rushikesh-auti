@@ -15,9 +15,20 @@ Full Stack Web Developer with a strong foundation in programming and modern web 
 
 ## 🤝 Connect With Me
 
-🌐 Portfolio: https://portfoliorushiz.vercel.app/  
-💼 LinkedIn: https://www.linkedin.com/in/rushikesh-auti  
-📧 Email: autirushikesh758@gmail.com  
+## Connect With Me
+
+### 🌐 Connect With Me
+<p>
+  <a href="https://github.com/rushikesh-auti">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/rushikesh-auti">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:autirushikesh758@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
