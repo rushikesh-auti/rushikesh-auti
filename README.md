@@ -2,19 +2,18 @@
 <h3 align="center">Web Developer</h3>
 
 <p align="center">
-🎓 Computer Science Graduate <br>
-📍 Pune, Maharashtra, India <br>
+📍 Pune, Maharashtra, India
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 I am a Computer Science graduate and Web Developer with a strong foundation in modern web technologies. I enjoy building responsive and user-friendly web applications while continuously improving my development skills. I am interested in solving real-world problems by developing scalable and maintainable software solutions.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 
@@ -34,7 +33,7 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -63,35 +62,30 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 
 ---
 
-# 🚀 Projects
+## 🚀 Projects
 
 ### 🌐 Personal Portfolio Website
-Responsive portfolio website showcasing my skills and projects.
-Live:  https://portfoliorushiz.vercel.app/
-
----
+Responsive portfolio website showcasing my skills and projects.  
+Live: https://portfoliorushiz.vercel.app/
 
 ### 🎵 Spotify Inspired Web Music Player
 Browser-based music player with play/pause, next/previous track, progress bar, and seek functionality.
 
----
-
 ### 🎮 Stone Paper Scissor Game
 Interactive browser game where users play against the computer.
-
----
 
 ### 🎮 Tic Tac Toe Game
 Simple and responsive Tic Tac Toe game with interactive UI.
 
 ---
 
-#  Currently Learning
+## 📚 Currently Learning
+
 - AI Automation
 
 ---
 
-# 🎯 Career Objective
+## 🎯 Career Objective
 
 Seeking an **entry-level Software Developer / Web Developer role** where I can apply my technical knowledge, grow professionally, and contribute to innovative projects.
 
