@@ -1,87 +1,126 @@
-# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Rushikesh Auti
+<h1 align="center">Hi 👋 I'm Rushikesh Auti</h1>
+<h3 align="center">Web Developer</h3>
 
-💻 **Web Developer**  
-🎓 Computer Science Graduate  
-📍 Pune, Maharashtra, India  
-📧 autirushikesh758@gmail.com  
+<p align="center">
+💻 Web Developer • 🎓 Computer Science Graduate <br>
+📍 Pune, Maharashtra, India <br>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-Full Stack Web Developer with a strong foundation in programming and modern web development. Expertise in building responsive and user-friendly applications. Passionate about learning new technologies and solving real-world problems. Committed to writing clean, maintainable code and continuously improving through hands-on projects and real-world development experience.
-
----
-
-## 🤝 Connect With Me
-
-## Connect With Me
-
-### 🌐 Connect With Me
-<p>
-  <a href="https://github.com/rushikesh-auti">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/rushikesh-auti">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:autirushikesh758@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;React+and+Node.js+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### 🚀 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+Web Developer with a strong foundation in modern web technologies.  
+I enjoy building responsive web applications and solving real-world problems through clean and maintainable code.
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+I am currently seeking an **entry-level Software Developer / Web Developer role** where I can apply my technical skills and contribute to real-world applications.
 
-### 🛢️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+---
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,js" />
-</p>
+# 🌐 Connect With Me
 
-### ☁️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
+
+<a href="https://portfoliorushiz.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:autirushikesh758@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📌 Projects
+# 🛠️ Tech Stack
 
-### 🌐 Personal Portfolio Website  
-Responsive portfolio website showcasing skills and projects.  
-🔗 https://portfoliorushiz.vercel.app/
+### Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 🎵 Spotify-Inspired Web Music Player  
-Music player with play/pause, next/previous controls, progress tracking, and seek functionality.
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🎮 Stone Paper Scissor Game  
-Interactive browser-based game built using HTML, CSS, and JavaScript.
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🎮 Tic-Tac-Toe Game  
-Simple and responsive Tic-Tac-Toe game with interactive UI.
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-## 🎯 Career Objective
+# 🚀 Projects
 
-Seeking an entry-level Software Developer / Web Developer role where I can apply my technical skills, grow professionally, and contribute to innovative projects.
+### 🌐 Personal Portfolio Website
+Responsive portfolio website showcasing my skills and projects.
+
+Live:  
+https://portfoliorushiz.vercel.app/
 
 ---
 
-⭐ **Thank you for visiting my profile!**
+### 🎵 Spotify Inspired Web Music Player
+Browser-based music player with play/pause, next/previous track, progress bar, and seek functionality.
+
+---
+
+### 🎮 Stone Paper Scissor Game
+Interactive browser game where users play against the computer.
+
+---
+
+### 🎮 Tic Tac Toe Game
+Simple and responsive Tic Tac Toe game with interactive UI.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rushikesh-auti&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh-auti&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikesh-auti&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced React  
+- Backend Development with Node.js  
+- REST API Development  
+
+---
+
+# 🎯 Career Objective
+
+Seeking an **entry-level Software Developer / Web Developer role** where I can apply my technical knowledge, grow professionally, and contribute to innovative projects.
+
+---
+
+⭐ Thank you for visiting my profile!
