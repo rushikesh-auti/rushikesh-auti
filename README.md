@@ -68,14 +68,14 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 Responsive portfolio website showcasing my skills and projects.  
 Live: https://portfoliorushiz.vercel.app/
 
-### 🎵 Spotify Inspired Web Music Player
-Browser-based music player with play/pause, next/previous track, progress bar, and seek functionality.
+### ⚛️ React Todo List App
+A task management application built using React with features like adding, deleting, and updating tasks.
 
-### 🎮 Stone Paper Scissor Game
-Interactive browser game where users play against the computer.
+### 🧮 React Calculator
+A simple and responsive calculator built using React components.
 
-### 🎮 Tic Tac Toe Game
-Simple and responsive Tic Tac Toe game with interactive UI.
+### 🎵 Spotify Inspired Music Player
+A browser-based music player with features like play/pause, next/previous track, progress bar, and seek functionality.
 
 ---
 
