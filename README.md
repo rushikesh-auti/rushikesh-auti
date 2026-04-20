@@ -68,7 +68,7 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 Responsive portfolio website showcasing my skills and projects.  
 Live: https://portfoliorushiz.vercel.app/
 
-### ⚛️ React Todo List App
+### 📝 React Todo List App
 A task management application built using React with features like adding, deleting, and updating tasks.
 
 ### 🧮 React Calculator
