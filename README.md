@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Rushikesh Auti</h1>
-<h3 align="center">Web Developer</h3>
+<h1>Hi 👋 I'm Rushikesh Auti</h1>
+<h3>Web Developer</h3>
 
-<p align="center">
+<p>
 📍 Pune, Maharashtra, India
 </p>
 
