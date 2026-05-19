@@ -64,18 +64,22 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 
 ## 🚀 Projects
 
+### 🛒 StyleKart
+E-commerce web application built with React and Node.js featuring responsive product layouts and modern UI design.
+
 ### 🌐 Personal Portfolio Website
-Responsive portfolio website showcasing my skills and projects.  
-Live: https://portfoliorushiz.vercel.app/
+Professional portfolio website built with HTML, CSS, and JavaScript showcasing projects, skills, and responsive design.
+
+🔗 Live: https://portfoliorushiz.vercel.app/  
+
+### 📱 Social Media Interface
+Responsive social media interface built with modern frontend technologies featuring interactive layouts and clean UI design.
 
 ### 📝 React Todo List App
-A task management application built using React with features like adding, deleting, and updating tasks.
+Task management application built with React featuring dynamic task management and responsive user interface.
 
-### 🧮 React Calculator
-A simple and responsive calculator built using React components.
-
-### 🎵 Spotify Inspired Music Player
-A browser-based music player with features like play/pause, next/previous track, progress bar, and seek functionality.
+### 🎵 Web Music Player
+Interactive music player built with JavaScript featuring audio controls, playlist functionality, and responsive web interface design.
 
 ---
 
