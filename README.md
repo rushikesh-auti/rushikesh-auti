@@ -67,6 +67,8 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 ### 🛒 StyleKart
 E-commerce web application built with React and Node.js featuring responsive product layouts and modern UI design.
 
+🔗 Live: https://stylekart-store.vercel.app/
+
 ### 🌐 Personal Portfolio Website
 Professional portfolio website built with HTML, CSS, and JavaScript showcasing projects, skills, and responsive design.
 
@@ -75,7 +77,7 @@ Professional portfolio website built with HTML, CSS, and JavaScript showcasing p
 ### 📱 Social Media Interface
 Responsive social media interface built with modern frontend technologies featuring interactive layouts and clean UI design.
 
-### 📝 React Todo List App
+### 📝 Task management application
 Task management application built with React featuring dynamic task management and responsive user interface.
 
 ### 🎵 Web Music Player
