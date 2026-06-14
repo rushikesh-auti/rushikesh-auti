@@ -5,13 +5,9 @@
 📍 Pune, Maharashtra, India
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 I am a Computer Science graduate and Web Developer with a strong foundation in modern web technologies. I enjoy building responsive and user-friendly web applications while continuously improving my development skills. I am interested in solving real-world problems by developing scalable and maintainable software solutions.
-
----
 
 ## 🌐 Connect With Me
 
@@ -30,8 +26,6 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 </a>
 
 </p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +54,6 @@ I am a Computer Science graduate and Web Developer with a strong foundation in m
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
 
----
 
 ## 🚀 Projects
 
@@ -74,22 +67,14 @@ Professional portfolio website built with HTML, CSS, and JavaScript showcasing p
 
 🔗 Live: https://portfoliorushiz.vercel.app/  
 
-### 📱 Social Media Interface
-Responsive social media interface built with modern frontend technologies featuring interactive layouts and clean UI design.
-
 ### 📝 Task management application
 Task management application built with React featuring dynamic task management and responsive user interface.
 
-### 🎵 Web Music Player
-Interactive music player built with JavaScript featuring audio controls, playlist functionality, and responsive web interface design.
-
----
 
 ## 📚 Currently Learning
 
 - AI Automation
 
----
 
 ## 🎯 Career Objective
 
